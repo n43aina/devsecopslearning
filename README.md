@@ -88,3 +88,5 @@ yarn build
 
 The build artifacts will be stored in the `dist/` directory.
 
+
+This repo belongs to Abhishek Veeramalla, I am using it for learning purpose only.
